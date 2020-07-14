@@ -1,2 +1,2 @@
-# Internet_Of_Things_In_Data_Centers
-Bachelorarbeit Ines Fourati
+# Internet Of Things In Data Centers
+Bachelorarbeit by Ines Fourati
